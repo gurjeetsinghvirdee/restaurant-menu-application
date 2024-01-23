@@ -4,7 +4,7 @@ This project is a minor project completed during the Coding Ninjas course. It in
 
 <div align="center">
   <image src="https://github.com/gurjeetsinghvirdee/resturant-menu-application/assets/73753957/440c2e12-ae89-43bc-978d-a6e086084c43" width="650">
-
+  <br>
   <image src="https://github.com/gurjeetsinghvirdee/resturant-menu-application/assets/73753957/1b2bf5bd-668a-404d-937e-d0ff596dc20e" width="650">
 </div>
 
